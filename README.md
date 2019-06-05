@@ -1,5 +1,5 @@
 # AutoBaik
-<b>Script Auto Installer Program Baik</b>
+<b>Script Auto Installer Bahasa Pemrograman "Baik"</b>
 
 [+] Cara Menjalankan
 
